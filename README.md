@@ -23,6 +23,7 @@
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=white" />
   <img alt="Jira" src="https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white" />
   <img alt="Trello" src="https://img.shields.io/badge/-Trello-0052CC?style=flat-square&logo=trello&logoColor=white" />
+  <img alt="Bitbucket" src="https://img.shields.io/badge/-Bitbucket-0052CC?style=flat-square&logo=bitbucket&logoColor=white" />
 </p>
 
 <a href="https://github.com/yunzhaoyu2050/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=yunzhaoyu2050&show_icons=true&include_all_commits=true&theme=default&hide_border=true" alt="yunzhaoyu2050's github stats" /></a>
