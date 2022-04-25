@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ----
-#### I use the following skills to help me achieve my dream
+#### 我用如下的一些技能去帮助我完成我的梦想
 <p>
   <img alt="C" src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white" />
   <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" /> 
@@ -28,16 +28,14 @@
   <img alt="Altium Designer" src="https://img.shields.io/badge/-AltiumDesigner-A5915F?style=flat-square&logo=altiumdesigner&logoColor=white" />
 </p>
 
-- I'm an embedded Linux engineer by profession, and I'm a geek in my life.:muscle:
-- A sentence I have been practicing is '*** knowledge is useless, it is only useful under one condition, that is, "use" is useful. ***' [<sup>1</sup>](#refer-1), so I have always been driven by my own goals, and only learn relevant knowledge in order to achieve my goals.:triangular_flag_on_post:
-- When the complexity of the development project is high, you need to use auxiliary tools to help yourself manage it. I am good at using **Jira Software** to manage my projects.:clock12:
-- It may be related to my parents asking me to learn art when I was a child. I prefer to study the technology development related to ***Linux graphical interface***, and I am good at using **Lvgl** to draw graphical interfaces and use **Qt quick** related knowledge to Implement graphical interface development (`but the work has not yet involved the development of Qt`:man_shrugging:）。
-- In order to be able to run the system and software I built myself on actual hardware, I learned Altium Designer software for drawing circuit schematics and PCBs, and soldering the boards.:hammer_and_wrench:
-- There are all kinds of goals, big and small, that need to be achieved in life, and I need to continue to learn relevant knowledge to accumulate and precipitate myself.:running_man:
+- 我的职业是一名嵌入式Linux工程师，在生活中我也是一名极客。:muscle:
+- 我一直在践行的一句话是 '***知识是没有用的，只有在一个条件下才有用，那就是“用”才有用。***' [<sup>1</sup>](#refer-1)，所以我一直是以自己的目标为驱动力，为了实现目标才去学习相关的知识。:triangular_flag_on_post:
+- 当开发工程的复杂程度高时，需要通过辅助工具来帮助自己管理，我擅长使用**Jira Software**来管理我的项目。:clock12:
+- 可能跟小时候父母让我学美术有关，我更加喜欢研究***Linux图形界面***相关的技术开发，并擅长利用**Lvgl**绘制图形界面和使用**Qt quick**相关知识去实现图形界面开发（`但工作中尚未涉及Qt方面的开发`:man_shrugging:）。
+- 为了能将自己构建的系统和软件运行在实际的硬件中，我学习**Altium Designer**软件用于绘制电路原理图和PCB，并焊接电路板。:hammer_and_wrench:
+- 生活中有各种各样的大大小小的目标需要去实现，需要我不断的去学习相关的知识，来积累和沉淀自己。:running_man:
 
 [1] [《遥远的救世主》- 豆豆](https://book.douban.com/subject/1322455/)
-
-[中文版](./README.zh_cn.md)
 
 ----
 
