@@ -39,3 +39,10 @@
 
 ----
 
+<p align="center">
+  <img alig src="https://github-profile-trophy.vercel.app/?username=yunzhaoyu2050&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
